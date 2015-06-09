@@ -1,0 +1,5 @@
+/Users/eydev/Projects/GitSample/GitSample/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/eydev/Projects/GitSample/GitSample/bin/Debug/GitSample.dll.mdb
+/Users/eydev/Projects/GitSample/GitSample/bin/Debug/GitSample.dll
+/Users/eydev/Projects/GitSample/GitSample/obj/Debug/GitSample.dll
+/Users/eydev/Projects/GitSample/GitSample/obj/Debug/GitSample.dll.mdb
